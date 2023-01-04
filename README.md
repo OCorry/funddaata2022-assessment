@@ -1,8 +1,10 @@
-# <font color=darkred>funddaata2022-assessment</font>
+# funddaata2022-assessment
 ***
 ## Orla Corry 
 
-# <font color=darkred>Introduction</font>
+
+
+# Introduction
 ***
 
 This repository contains the exercises and project required for Module *Fundamentals of Data Analysis* as part of the H. Dip in Computer Programming and Data Analysis course at <a href="https://www.gmit.ie" target="_top">Atlantic Technological University, Galway</a>
@@ -10,8 +12,8 @@ This repository contains the exercises and project required for Module *Fundamen
 There are five smaller notebooks containing the weekly exercises and a larger notebook titled *Normal-Distribution-Notebook.ipynb* which contains the larger project.  There are six notebooks in total. 
 
 
-# <font color=darkred>Setup of the Environment</font>
-***
+
+# Setup of the Environment
 
 Firstly, I set up the relevant programming environment by installing relevant packages to my machine:
 
@@ -23,7 +25,7 @@ Firstly, I set up the relevant programming environment by installing relevant pa
   - As I am using a Windows machine, Cmder is a more user friendly command line than the Windows Command Prompt
 
 
-In <a href="[https://www.gmit.ie](https://github.com/)" target="_top">github</a>, I set up my repository titled **funddata2022-assessment** in my Github account and cloned my project repository to my machine. I did this by clicking the green **Code** box and copying the HTTPS link. Then back in Cmder command line, using the the ``git clone command`` followed by the copied HTTPS link and hitting return, I saved my repository in my preferred folder on my own machine. 
+In <a href="https://github.com/" target="_top">github</a>, I set up my repository titled **funddata2022-assessment** in my Github account and cloned my project repository to my machine. I did this by clicking the green **Code** box and copying the HTTPS link. Then back in Cmder command line, using the the ``git clone command`` followed by the copied HTTPS link and hitting return, I saved my repository in my preferred folder on my own machine. 
 
 
 When creating my repository in Github, I left it public so that my work could be accessed publically. I made sure that my repository contained a README.md file.
@@ -33,7 +35,9 @@ From here, I set up a new Folder called **Practicals**. To create a new Notebook
 
 Using the ``git add .``, ``git commit -m" "`` and ``git push`` commands in Cmder, I have pushed up my updated work to GitHub as frequently as possible.
 
-# <font color=darkred>Interacting with the Notebooks' code</font>
+
+
+# Interacting with the Notebooks' code
 ***
 In order for user to be able to interact my Notebooks, the user will first need to get them down to their own machine. This can be done by right clicking on the **Raw** button and clicking *Save Link As*. Then save the Notebook to your desired folder on your machine. 
 
@@ -41,10 +45,7 @@ Next, in Cmder, firstly use the ``cd`` (change directory) command to navigate to
 
 
 
-# <font color=darkred>Referencest</font>
+# References
 ***
 
 All references used for the creating of these notebooks are cited on their respective notebooks. 
-
-
-

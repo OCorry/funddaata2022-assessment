@@ -1,11 +1,11 @@
 # funddaata2022-assessment
-***
+
+
 ## Orla Corry 
 
 
 
 # Introduction
-***
 
 This repository contains the exercises and project required for Module *Fundamentals of Data Analysis* as part of the H. Dip in Computer Programming and Data Analysis course at <a href="https://www.gmit.ie" target="_top">Atlantic Technological University, Galway</a>
 
@@ -38,7 +38,7 @@ Using the ``git add .``, ``git commit -m" "`` and ``git push`` commands in Cmder
 
 
 # Interacting with the Notebooks' code
-***
+
 In order for user to be able to interact my Notebooks, the user will first need to get them down to their own machine. This can be done by right clicking on the **Raw** button and clicking *Save Link As*. Then save the Notebook to your desired folder on your machine. 
 
 Next, in Cmder, firstly use the ``cd`` (change directory) command to navigate to the Folder that contains the Notebook.  Then type *Jupyter Notebook* and hit return. The Notebook will then open in a local browser and code can be interacted with. 
@@ -46,6 +46,5 @@ Next, in Cmder, firstly use the ``cd`` (change directory) command to navigate to
 
 
 # References
-***
 
 All references used for the creating of these notebooks are cited on their respective notebooks. 
